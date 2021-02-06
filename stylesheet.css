@@ -1,0 +1,53 @@
+#menu {
+    padding: 40px;
+    height: 84px;
+    background: white; 
+    
+}
+
+.table {
+    display: table;
+    margin: 0 auto;
+}
+
+
+ul#horizontal {
+    min-width: 696px;
+    list-style: none;
+    padding-top: 20px;
+}
+
+ul#horizontal li {
+    padding-left: 40px;
+    padding-right: 75px;
+    display: inline;
+    
+}
+
+.ul1 {
+    margin-top: -1px;
+    text-underline-position: unset;
+    display:block;
+    padding: 20px 30px;
+}
+
+.body {
+    text-align: center;
+}
+
+#img {
+    padding: 125px 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.srch {
+    margin: 0 auto;
+    position: relative;
+    width: 400px;
+}
+
+.footer {
+
+}
